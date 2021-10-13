@@ -1,0 +1,22 @@
+.footer{
+    background-color: #6ec4db;
+    display: flex;
+    align-items: center;
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+.ul{
+    margin: 10px;
+    line-height: 1.5;
+    padding: 10px;
+}
+
+.li{
+    margin: 20px;
+    padding: 20px;
+}
